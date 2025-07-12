@@ -2,7 +2,9 @@
     🕷️ Web RAG 🕷️
 </h1>
 
-![](spider.jpg)
+<p align="center">
+  <img src="spider.jpg" alt="Spider" />
+</p>
 
 This project will help you to make a chatbot out of any website with atmost accuracy and speed. Just enter the website link, follow readme steps and in the end you can get a ready API for your chatbot.
 
@@ -13,9 +15,9 @@ This project will help you to make a chatbot out of any website with atmost accu
     <a href="https://github.com/ArshCypherZ">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/license/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/forks/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/license/ArshCypherZ/web-rag?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/forks/ArshCypherZ/web-rag?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/ArshCypherZ/web-rag?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 
